@@ -15,7 +15,7 @@
 
 ### Hi, I'm Jhon Chavarro
 
-Backend and distributed-systems engineer in Munich. [**Jhon**](https://github.com/jachavarro2004/jhon-agent) is my first open-source project: an agent framework for Claude Code and pi. The agent gets freedom of execution within safety limits, and nothing is delivered without evidence. One orchestrator plans the slices; `jhon-scout` investigates, `jhon-builder` builds a slice, `jhon-checker` checks it from tests that actually ran, and the Prism review reads the frozen diff.
+Backend and distributed-systems engineer. [**Jhon**](https://github.com/jachavarro2004/jhon-agent) is my first open-source project: an agent framework for Claude Code and pi. The agent gets freedom of execution within safety limits, and nothing is delivered without evidence. One orchestrator plans the slices; `jhon-scout` investigates, `jhon-builder` builds a slice, `jhon-checker` checks it from tests that actually ran, and the Prism review reads the frozen diff.
 
 <p>
   <a href="https://github.com/jachavarro2004/jhon-agent#ldd-how-a-change-reaches-the-default-branch"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ldd-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/ldd-light.svg"><img src="assets/ldd-dark.svg" width="417" height="132" alt="証 The method: LDD. Value reaches the default branch in proven slices: RED before GREEN, on record."></picture></a>
