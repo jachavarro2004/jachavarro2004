@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jachavarro2004/jhon-agent/releases"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-release-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/badge-release-light.svg"><img src="assets/badge-release-dark.svg" height="20" alt="release v0.3.7"></picture></a>
+  <a href="https://github.com/jachavarro2004/jhon-agent/releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-release-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/badge-release-light.svg"><img src="assets/badge-release-dark.svg" height="20" alt="release latest"></picture></a>
   <a href="https://github.com/jachavarro2004/jhon-agent/blob/main/LICENSE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-license-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/badge-license-light.svg"><img src="assets/badge-license-dark.svg" height="20" alt="license Apache-2.0"></picture></a>
   <a href="https://github.com/jachavarro2004/jhon-agent#get-started"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-signed-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/badge-signed-light.svg"><img src="assets/badge-signed-dark.svg" height="20" alt="releases cosign-signed"></picture></a>
   <a href="https://github.com/sponsors/jachavarro2004"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-sponsor-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/badge-sponsor-light.svg"><img src="assets/badge-sponsor-dark.svg" height="20" alt="sponsor"></picture></a>
