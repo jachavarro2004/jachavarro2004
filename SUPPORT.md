@@ -18,7 +18,7 @@ help:
 jhon-agent is free and open source.
 If it helps you, donate any amount you choose,
 once or monthly, on GitHub Sponsors.
-If you can't donate, a ⭐ on the repo helps
+If you can't donate, a ⭐ on the [repo](https://github.com/jachavarro2004/jhon-agent) helps
 keep the project maintained.
 
 [♥ Sponsor on GitHub](https://github.com/sponsors/jachavarro2004)
