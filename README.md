@@ -43,17 +43,9 @@ Backend and distributed systems, DDD and Clean Architecture, agentic AI. Write t
 
 </details>
 
-## The Jhon family
+## Support jhon-agent
 
-- **[jhon-agent](https://github.com/jachavarro2004/jhon-agent)**: the framework.
-- **[jhon-studio](https://github.com/jachavarro2004/jhon-studio)**: presentation videos for any project.
-- **[The landing](https://jachavarro2004.github.io/jhon-site/)**: Jhon's site, jachavarro2004.github.io/jhon-site.
-- **The profile**: the author's GitHub profile, github.com/jachavarro2004 (you are here).
-- **[YouTube](https://www.youtube.com/channel/UCprv0NKifqqMb-zzrBdXb9g)**: Jhon's films, a video for every release.
-
-## Support Jhon
-
-Jhon is free and open source.
+jhon-agent is free and open source.
 If it helps you, donate any amount you choose,
 once or monthly, on GitHub Sponsors.
 If you can't donate, a ⭐ on the repo helps
