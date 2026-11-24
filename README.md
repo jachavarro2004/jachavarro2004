@@ -43,9 +43,9 @@ Backend and distributed systems, DDD and Clean Architecture, agentic AI. Write t
 
 </details>
 
-## Support jhon-agent
+## Support Jhon
 
-jhon-agent is free and open source.
+Jhon is free and open source.
 If it helps you, donate any amount you choose,
 once or monthly, on GitHub Sponsors.
 If you can't donate, a ⭐ on the repo helps

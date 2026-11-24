@@ -13,9 +13,9 @@ help:
   describes what to include.
 - **A security problem:** never in public; see [SECURITY.md](SECURITY.md).
 
-## Support jhon-agent
+## Support Jhon
 
-jhon-agent is free and open source.
+Jhon is free and open source.
 If it helps you, donate any amount you choose,
 once or monthly, on GitHub Sponsors.
 If you can't donate, a ⭐ on the repo helps
