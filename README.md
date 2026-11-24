@@ -1,16 +1,17 @@
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-dark.svg" width="846" height="300" alt="力 Jhon: agent framework · LDD · by Jhon Chavarro. Let the agent run. Deliver only what is proven. Card jhon · ldd status: LDD, verified route; invoice-csv-export, 1/3 slices · on 2, tests passed; changes, 4 files, +132 -9.">
-</picture>
+<p align="center">
+  <img src="assets/brand/jhon-banner.gif" alt="Jhon" width="760">
 </p>
 
 <p align="center">
-  <a href="https://github.com/jachavarro2004/jhon-agent/releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-release-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/badge-release-light.svg"><img src="assets/badge-release-dark.svg" height="20" alt="release latest"></picture></a>
-  <a href="https://github.com/jachavarro2004/jhon-agent/blob/main/LICENSE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-license-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/badge-license-light.svg"><img src="assets/badge-license-dark.svg" height="20" alt="license Apache-2.0"></picture></a>
-  <a href="https://github.com/jachavarro2004/jhon-agent#get-started"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-signed-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/badge-signed-light.svg"><img src="assets/badge-signed-dark.svg" height="20" alt="releases cosign-signed"></picture></a>
-  <a href="https://github.com/sponsors/jachavarro2004"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-sponsor-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/badge-sponsor-light.svg"><img src="assets/badge-sponsor-dark.svg" height="20" alt="sponsor"></picture></a>
+  <b>Let the agent run. Deliver only what is proven.</b><br>
+  An agent framework for Claude Code and pi.
+</p>
+
+<p align="center">
+  <a href="https://github.com/jachavarro2004/jhon-agent/blob/main/LICENSE"><img src="https://img.shields.io/github/license/jachavarro2004/jhon-agent?style=flat&color=e7bbc8&labelColor=1f1f28" alt="License: Apache-2.0"></a>
+  <a href="https://github.com/jachavarro2004/jhon-agent/actions/workflows/validate.yml"><img src="https://img.shields.io/github/actions/workflow/status/jachavarro2004/jhon-agent/validate.yml?branch=main&label=CI&style=flat&color=e7bbc8&labelColor=1f1f28" alt="CI"></a>
+  <a href="https://github.com/sponsors/jachavarro2004"><img src="https://img.shields.io/github/sponsors/jachavarro2004?label=Sponsor&logo=githubsponsors&style=flat&color=e7bbc8&labelColor=1f1f28" alt="GitHub Sponsors"></a>
+  <a href="https://github.com/jachavarro2004/jhon-agent/stargazers"><img src="https://img.shields.io/github/stars/jachavarro2004/jhon-agent?style=flat&color=e7bbc8&labelColor=1f1f28" alt="Stars"></a>
 </p>
 
 ### Hi, I'm Jhon Chavarro
@@ -33,9 +34,7 @@ jhon setup
 jhon start        # Claude Code, or: jhon start pi
 ```
 
-Linux (amd64, arm64) or Windows with WSL 2. Every release is signed with cosign. [Read the README](https://github.com/jachavarro2004/jhon-agent#readme) · [Watch the 3:43 presentation](https://github.com/jachavarro2004/jhon-agent#-the-presentation-343)
-
-<a href="https://github.com/sponsors/jachavarro2004"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sponsor-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/sponsor-light.svg"><img src="assets/sponsor-dark.svg" width="846" height="88" alt="力 Keep Jhon proven. Monthly $5 · $15 · $50, one-time $10 · $25 · $100, or any amount you choose. ♥ Sponsor on GitHub."></picture></a>
+Linux (amd64, arm64) or Windows with WSL 2. Every release is signed with cosign. [Read the README](https://github.com/jachavarro2004/jhon-agent#readme) · [Watch the 3:39 presentation](https://github.com/jachavarro2004/jhon-agent#-the-presentation-339)
 
 <details>
 <summary>More about me</summary>
@@ -43,3 +42,25 @@ Linux (amd64, arm64) or Windows with WSL 2. Every release is signed with cosign.
 Backend and distributed systems, DDD and Clean Architecture, agentic AI. Write to [jhon87195@outlook.com](mailto:jhon87195@outlook.com).
 
 </details>
+
+## The Jhon family
+
+- **[jhon-agent](https://github.com/jachavarro2004/jhon-agent)**: the framework.
+- **[jhon-studio](https://github.com/jachavarro2004/jhon-studio)**: presentation videos for any project.
+- **[The landing](https://jachavarro2004.github.io/jhon-site/)**: Jhon's site, jachavarro2004.github.io/jhon-site.
+- **The profile**: the author's GitHub profile, github.com/jachavarro2004 (you are here).
+- **YouTube**: Jhon's films, a video for every release.
+
+## Support Jhon
+
+Jhon is free and open source.
+If it helps you, donate any amount you choose,
+once or monthly, on GitHub Sponsors.
+If you can't donate, a ⭐ on the repo helps
+keep the project maintained.
+
+[♥ Sponsor on GitHub](https://github.com/sponsors/jachavarro2004)
+
+## License
+
+Apache-2.0: [`LICENSE`](LICENSE). The fonts behind the images in `assets/`: [`LICENSES.md`](LICENSES.md).

@@ -1,6 +1,6 @@
 # Licenses of the fonts behind the profile's images
 
-The images in `assets/` embed **no font files**. `build.ts` draws every text
+The card images in `assets/` (the banner `assets/brand/jhon-banner.gif` is a copy of jhon-agent's) embed **no font files**. `build.ts` draws every text
 as outlined `<path>`s (`outline.py`), because GitHub shows a README image
 through `<img>`, where an SVG loads no web fonts. The outlines are glyph
 shapes taken from these installed fonts, each licensed under the SIL Open
@@ -10,11 +10,11 @@ licence string of the font's own `name` table (ID 13). Every font's OS/2
 
 | Font | Used for | Copyright (from the font) | Licence | Source file |
 |---|---|---|---|---|
-| Fraunces (variable, roman and italic) | The wordmark "Jhon", card titles, the sponsor title | Copyright 2020 The Fraunces Project Authors (github.com/undercasetype/Fraunces) | OFL 1.1 (`ttf-fraunces-variable`) | `/usr/share/fonts/TTF/Fraunces[SOFT,WONK,opsz,wght].ttf`, `Fraunces-Italic[…].ttf` |
-| Space Grotesk (Regular, Bold) | The tagline, card bodies, the sponsor line and button | Copyright 2020 The Space Grotesk Project Authors (https://github.com/floriankarsten/space-grotesk) | OFL 1.1 (`otf-space-grotesk`) | `/usr/share/fonts/OTF/SpaceGrotesk-*.otf` |
-| Fira Code, as FiraCode Nerd Font Mono (Regular, SemiBold) | Kickers, badges, the status card | Copyright 2014-2021 The Fira Code Project Authors (https://github.com/tonsky/FiraCode) | OFL 1.1 (`ttf-firacode-nerd`: OFL-1.1-no-RFN) | `/usr/share/fonts/TTF/FiraCodeNerdFontMono-*.ttf` |
-| JetBrains Mono, as JetBrainsMono Nerd Font (Regular) | The status card's `▾` only (the generic monospace) | Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono) | OFL 1.1 (`ttf-jetbrains-mono-nerd-basic`: OFL-1.1-no-RFN) | `/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Regular.ttf` |
-| Noto Sans CJK JP (Bold) | The seals: 力 証 守 鏡 殻 | © 2014-2021 Adobe (http://www.adobe.com/) | OFL 1.1 (`noto-fonts-cjk`) | `/usr/share/fonts/noto-cjk/NotoSansCJK-Bold.ttc` (JP face) |
+| Fraunces (variable, roman and italic) | Card titles | Copyright 2020 The Fraunces Project Authors (github.com/undercasetype/Fraunces) | OFL 1.1 (`ttf-fraunces-variable`) | `/usr/share/fonts/TTF/Fraunces[SOFT,WONK,opsz,wght].ttf`, `Fraunces-Italic[…].ttf` |
+| Space Grotesk (Regular, Bold) | Card bodies | Copyright 2020 The Space Grotesk Project Authors (https://github.com/floriankarsten/space-grotesk) | OFL 1.1 (`otf-space-grotesk`) | `/usr/share/fonts/OTF/SpaceGrotesk-*.otf` |
+| Fira Code, as FiraCode Nerd Font Mono (Regular, SemiBold) | Kickers | Copyright 2014-2021 The Fira Code Project Authors (https://github.com/tonsky/FiraCode) | OFL 1.1 (`ttf-firacode-nerd`: OFL-1.1-no-RFN) | `/usr/share/fonts/TTF/FiraCodeNerdFontMono-*.ttf` |
+| JetBrains Mono, as JetBrainsMono Nerd Font (Regular) | Not drawn in the current cards (kept for a rebuild of the status card's `▾`) | Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono) | OFL 1.1 (`ttf-jetbrains-mono-nerd-basic`: OFL-1.1-no-RFN) | `/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Regular.ttf` |
+| Noto Sans CJK JP (Bold) | The card seals: 証 守 鏡 殻 | © 2014-2021 Adobe (http://www.adobe.com/) | OFL 1.1 (`noto-fonts-cjk`) | `/usr/share/fonts/noto-cjk/NotoSansCJK-Bold.ttc` (JP face) |
 
 Not used: CaskaydiaCove Nerd Font Mono, second in `FONTS.mono`. Its package
 says OFL, but the font's own licence string gives Microsoft's product
