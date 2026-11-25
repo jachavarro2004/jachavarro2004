@@ -14,6 +14,19 @@
   <a href="https://github.com/jachavarro2004/jhon-agent/stargazers"><img src="https://img.shields.io/github/stars/jachavarro2004/jhon-agent?style=flat&color=e7bbc8&labelColor=1f1f28" alt="Stars"></a>
 </p>
 
+### ▶ The presentation (3:39)
+
+https://github.com/user-attachments/assets/e5d924c2-0a05-4a5f-82a9-1ab303276258
+
+<details>
+<summary>With Spanish subtitles</summary>
+
+https://github.com/user-attachments/assets/0ae10efb-b546-4f5c-be7d-87e6415f27fa
+
+</details>
+
+Full resolution: [English](https://jachavarro2004.github.io/jhon-site/assets/video/jhon-explainer.mp4) · [Spanish subtitles](https://jachavarro2004.github.io/jhon-site/assets/video/jhon-explainer.es.mp4)
+
 ### Hi, I'm Jhon Chavarro
 
 Backend and distributed-systems engineer. [**Jhon**](https://github.com/jachavarro2004/jhon-agent) is my first open-source project: an agent framework for Claude Code and pi. The agent gets freedom of execution within safety limits, and nothing is delivered without evidence. One orchestrator plans the slices; `jhon-scout` investigates, `jhon-builder` builds a slice, `jhon-checker` checks it from tests that actually ran, and the Prism review reads the frozen diff.
@@ -34,7 +47,7 @@ jhon setup
 jhon start        # Claude Code, or: jhon start pi
 ```
 
-Linux (amd64, arm64) or Windows with WSL 2. Every release is signed with cosign. [Read the README](https://github.com/jachavarro2004/jhon-agent#readme) · [Watch the 3:39 presentation](https://github.com/jachavarro2004/jhon-agent#-the-presentation-339)
+Linux (amd64, arm64) or Windows with WSL 2. Every release is signed with cosign. [Read the README](https://github.com/jachavarro2004/jhon-agent#readme) · [Watch the 3:39 presentation](#-the-presentation-339)
 
 <details>
 <summary>More about me</summary>
